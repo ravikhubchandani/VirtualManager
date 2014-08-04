@@ -1,0 +1,17 @@
+c:\users\ravi\documents\visual studio 2010\Projects\Virtual Manager\Virtual Manager\bin\Debug\Virtual Manager.exe
+c:\users\ravi\documents\visual studio 2010\Projects\Virtual Manager\Virtual Manager\bin\Debug\Virtual Manager.pdb
+c:\users\ravi\documents\visual studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ravi\documents\visual studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Debug\Virtual_Manager.Inicio.resources
+c:\users\ravi\documents\visual studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Debug\Virtual_Manager.Properties.Resources.resources
+c:\users\ravi\documents\visual studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ravi\documents\visual studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ravi\documents\visual studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Debug\Virtual Manager.exe
+c:\users\ravi\documents\visual studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Debug\Virtual Manager.pdb
+c:\users\ravi\documents\visual studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Debug\Virtual_Manager.Principal.resources
+c:\users\ravi\documents\visual studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Debug\Virtual_Manager.VerDetalles.resources
+c:\users\ravi\documents\visual studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Debug\Virtual_Manager.CambiarPassword.resources
+c:\users\ravi\documents\visual studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Debug\Virtual_Manager.Configuracion.resources
+c:\users\ravi\documents\visual studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Debug\Virtual_Manager.NuevaTarea.resources
+c:\users\ravi\documents\visual studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Debug\Virtual_Manager.NuevoElemento.resources
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Debug\Virtual_Manager.EliminarUsuario.resources
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Debug\Virtual_Manager.Informacion.resources

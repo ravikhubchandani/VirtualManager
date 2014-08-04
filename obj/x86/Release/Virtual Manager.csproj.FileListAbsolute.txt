@@ -1,0 +1,21 @@
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\bin\Release\Virtual Manager.exe
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\bin\Release\Virtual Manager.pdb
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Release\Virtual_Manager.CambiarPassword.resources
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Release\Virtual_Manager.Configuracion.resources
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Release\Virtual_Manager.EliminarUsuario.resources
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Release\Virtual_Manager.Informacion.resources
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Release\Virtual_Manager.Inicio.resources
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Release\Virtual_Manager.NuevaTarea.resources
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Release\Virtual_Manager.NuevoElemento.resources
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Release\Virtual_Manager.Principal.resources
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Release\Virtual_Manager.Properties.Resources.resources
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Release\Virtual_Manager.VerDetalles.resources
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Release\Virtual Manager.exe
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Release\Virtual Manager.pdb
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\bin\Release\Virtual Manager.exe.manifest
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\bin\Release\Virtual Manager.application
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Release\Virtual Manager.exe.manifest
+C:\Users\Ravi\Documents\Visual Studio 2010\Projects\Virtual Manager\Virtual Manager\obj\x86\Release\Virtual Manager.application
